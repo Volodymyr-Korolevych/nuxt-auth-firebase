@@ -6,7 +6,7 @@ importScripts(
 importScripts(
   'https://www.gstatic.com/firebasejs/9.9.1/firebase-auth-compat.js'
 )
-firebase.initializeApp({"apiKey":"AIzaSyBH5HWo7fMZijxT-atLMpX3Knutbfs55lc","authDomain":"edu-platform-54224.firebaseapp.com","projectId":"edu-platform-54224","storageBucket":"edu-platform-54224.appspot.com","messagingSenderId":"745535153271","appId":"1:745535153271:web:946f9249136634b25b5272","databaseURL":"https:\u002F\u002Fedu-platform-54224-default-rtdb.europe-west1.firebasedatabase.app"})
+firebase.initializeApp({"apiKey":"AIzaSyBH5HWo7fMZijxT-atLMpX3Knutbfs55lc","authDomain":"edu-platform-54224.firebaseapp.com","projectId":"edu-platform-54224","storageBucket":"edu-platform-54224.appspot.com","messagingSenderId":"745535153271","appId":"1:745535153271:web:946f9249136634b25b5272"})
 
 // Initialize authService
 const authService = firebase.auth()
